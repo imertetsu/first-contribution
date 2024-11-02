@@ -1,3 +1,17 @@
 # para inicializar un repositorio de manera local
 git init
 
+# para verificar estado de los archivos
+git status
+
+# para agregar archivos al siguiente stage y sean commiteados
+git commit -m "nombre del commit"
+
+# para ver los commits realizados
+git log
+
+# vicular repositorio local con el repositorio remoto
+git remote add origin https...
+
+# guardar los cambios en el repositorio remoto en la rama indicada
+git push -u origin <nombre_de_la_rama>
