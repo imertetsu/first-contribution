@@ -1,0 +1,3 @@
+# para inicializar un repositorio de manera local
+git init
+
