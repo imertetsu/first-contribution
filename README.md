@@ -21,3 +21,5 @@ Este proyecto contiene una función en Python que saluda al usuario. Es una intr
 ## Colaboradores
 
 1. Imer Coaguila
+2. anabel leyva
+3. Ivan Churqui
