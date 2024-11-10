@@ -25,3 +25,4 @@ Este proyecto contiene una función en Python que saluda al usuario. Es una intr
 3. Ivan Churqui
 4. victoria soliz
 5. Danna Soliz
+6. Daira Soliz
