@@ -15,3 +15,9 @@ git remote add origin https...
 
 # guardar los cambios en el repositorio remoto en la rama indicada
 git push -u origin <nombre_de_la_rama>
+
+# Crearse una nueva rama 
+git switch -c <nombre_de_la_rama>
+
+# Cambiar a otra rama
+git switch <nombre_de_la_rama>
